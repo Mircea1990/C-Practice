@@ -1,0 +1,10 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\X si O.csprojAssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\X si O.csproj.GenerateResource.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\X si O.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
