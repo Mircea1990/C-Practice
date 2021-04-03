@@ -1,0 +1,32 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.dev.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\ref\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csprojAssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\ref\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.genruntimeconfig.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.dev.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\ref\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csprojAssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\ref\Multidimensional Arrays.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\C# Basics\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.genruntimeconfig.cache
