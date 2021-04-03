@@ -1,0 +1,16 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.runtimeconfig.dev.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\ref\StringBuilderTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\bin\Debug\net5.0\StringBuilderTest.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.csprojAssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\ref\StringBuilderTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\StringBuilder\obj\Debug\net5.0\StringBuilderTest.genruntimeconfig.cache
