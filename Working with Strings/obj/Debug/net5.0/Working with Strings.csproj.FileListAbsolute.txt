@@ -1,0 +1,16 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.runtimeconfig.dev.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\ref\Working with Strings.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\bin\Debug\net5.0\Working with Strings.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.csprojAssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\ref\Working with Strings.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\Working with Strings\obj\Debug\net5.0\Working with Strings.genruntimeconfig.cache
