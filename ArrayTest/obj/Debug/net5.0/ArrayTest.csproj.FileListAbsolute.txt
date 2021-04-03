@@ -1,0 +1,16 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.runtimeconfig.dev.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ref\ArrayTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\bin\Debug\net5.0\ArrayTest.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ref\ArrayTest.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.genruntimeconfig.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\ClassPractice1\ArrayTest\obj\Debug\net5.0\ArrayTest.csprojAssemblyReference.cache
